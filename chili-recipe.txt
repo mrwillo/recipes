@@ -1,5 +1,5 @@
 Ingredients:
- - "local modified" modified by github locally & repository: merged
+ - "local modified" modified by github locally & repository: merged, "modified on remote"
  - 2 pounds ground beef
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
